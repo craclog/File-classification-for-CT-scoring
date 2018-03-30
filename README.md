@@ -1,6 +1,6 @@
 ﻿ File-classification-for-CT-scoring
 =====================
-
+  본인 담당의 학생들의 파일을 맨날 찾기 힘들어서 만들었습니다..
 
 ## Prerequisites
 Python3.6.4
